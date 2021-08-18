@@ -1,0 +1,2 @@
+player = game.Players:FindFirstChild(game.Players.LocalPlayer.Name)
+player.Character.HumanoidRootPart.CFrame = CFrame.new(9.0993948, 29.6397457, -11.4931278)
